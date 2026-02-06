@@ -20,7 +20,7 @@
 - ...
 
 ## Small Games
-- ♍️Ecliptic Path 
+- [♍️Ecliptic Path](https://github.com/Aimer779/ecliptic-path) 
 - ...
 ## Contact
 - Github

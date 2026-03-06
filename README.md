@@ -25,3 +25,4 @@
 ## Contact
 <a href="https://linux.do/u/aimer779/summary" target="_blank"><img src="https://img.shields.io/badge/Linux.do-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>
 <a href="https://space.bilibili.com/" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+<a href="https://xhslink.com/m/4YSYARkfb3C" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>

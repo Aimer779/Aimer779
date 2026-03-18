@@ -17,7 +17,7 @@
 
 ## Current Project
 - Dream Weave
-- ...
+- [ima-note-cli](https://github.com/Aimer779/ima-note-cli)
 
 ## Small Games
 - [♍️Ecliptic Path](https://github.com/Aimer779/ecliptic-path) 

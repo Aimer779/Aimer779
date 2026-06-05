@@ -6,6 +6,7 @@
 
 📝 I regularly write blogs on [my-blog](https://aimer779.github.io/my_blog_source/) </br>
     and summarize experience on [Feishu wiki](https://my.feishu.cn/wiki/E7z5wNykdizlHIkEQpBcw9aDn9c?from=from_copylink)
+    [build in public](https://my.feishu.cn/wiki/VbD3wU2ZMifwiUkUZuJcVrzQnBb?from=from_copylink) feishu wiki free for ever
 
 **Tech Stack:**</br>
 ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=openai&logoColor=white)

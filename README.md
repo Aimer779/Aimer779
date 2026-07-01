@@ -21,7 +21,8 @@
 - [ima-note-cli](https://github.com/Aimer779/ima-note-cli)
 
 ## Small Games
-- [♍️Ecliptic Path](https://github.com/Aimer779/ecliptic-path) 
+- [♍️Ecliptic Path](https://github.com/Aimer779/ecliptic-path)
+- [Buckshot Roulette Web](https://github.com/Aimer779/buckshot-roulette)
 - ...
 ## Contact
 <a href="https://linux.do/u/aimer779/summary" target="_blank"><img src="https://img.shields.io/badge/Linux.do-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>

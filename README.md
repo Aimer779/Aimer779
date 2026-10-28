@@ -1,8 +1,10 @@
 # Hi, I'm Max 👋
 
+📍 Nanjing / Suzhou, China | An explorer of everything
+
 <p>我把有趣的想法，做成工具、小游戏和交互实验。<br>I build useful tools, tiny games, and interactive experiments.</p>
 
-<p>📍 Nanjing / Suzhou, China<br>探索 AI Agent、agentic coding 与 AIGC。</p>
+探索 AI Agent、agentic coding 与 AIGC。
 
 ## 正在构建
 

@@ -40,10 +40,11 @@ I build useful tools, tiny games, and interactive experiments.
 
 ## 记录与联系
 
-在[飞书笔记](https://my.feishu.cn/wiki/VbD3wU2ZMifwiUkUZuJcVrzQnBb?from=from_copylink)记录学习、构建过程和想法。
+在[飞书 Wiki](https://my.feishu.cn/wiki/VbD3wU2ZMifwiUkUZuJcVrzQnBb?from=from_copylink)记录学习、构建过程和想法。
 
 Email: [2302500712@qq.com](mailto:2302500712@qq.com)
 
+<a href="https://my.feishu.cn/wiki/VbD3wU2ZMifwiUkUZuJcVrzQnBb?from=from_copylink" target="_blank"><img src="https://img.shields.io/badge/飞书_Wiki-3370FF?style=for-the-badge" alt="飞书 Wiki" /></a>
 <a href="https://linux.do/u/aimer779/summary" target="_blank"><img src="https://img.shields.io/badge/Linux.do-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux.do" /></a>
 <a href="https://space.bilibili.com/" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 <a href="https://xhslink.com/m/4YSYARkfb3C" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书" /></a>
